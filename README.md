@@ -1,3 +1,4 @@
-# Notebooks.ai - Sample Project
+### rmotr.com
+# Data Science with Python Course
 
-Join Notebooks.ai using this link: https://notebooks.ai/join
+This material is created for our [Data Science with Python Course](https://rmotr.com/data-science-python-course)
