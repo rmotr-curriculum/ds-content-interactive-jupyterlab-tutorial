@@ -1,4 +1,3 @@
-### rmotr.com
-# Data Science with Python Course
+### How to use Jupyter Notebooks
 
-This material is created for our [Data Science with Python Course](https://rmotr.com/data-science-python-course)
+Navigate to `Tutorial.ipynb` or clone it in Google Colab.
